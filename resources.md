@@ -33,7 +33,7 @@ https://pentesterlab.com/
 
 https://www.youtube.com/channel/UCEeuul0q7C8Zs5C8rc4REFQ
 
-https://www.youtube.com/@SimplyCyber ← daily briefing live streams/videos are interesting for GRC stuff
+https://www.youtube.com/@SimplyCyber ← daily briefing live streams/videos are interesting for GRC stuff and general cyber news
 
 https://www.youtube.com/@phd_security
 
