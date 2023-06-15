@@ -17,7 +17,7 @@ https://cs50.harvard.edu/x/2023/ ← good resource to learn fundamental comp sci
 
 https://www.apisecuniversity.com/#courses
 
-https://github.com/ossu/computer-science
+https://github.com/ossu/computer-science  <-- an open-source comp sci degree. Has some handy suggests of info for cyber security.
 
 
 
